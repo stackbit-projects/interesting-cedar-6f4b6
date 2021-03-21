@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      # “What are we going to do today?”
-
-
+      > What are we going to do today?
 
 
       My 4 year old has asked me that exact question about 8,392,451,340 times
