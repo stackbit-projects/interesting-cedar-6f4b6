@@ -5,6 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
+      ![](/images/curious-triceratops.jpg)
+
+
       > What are we going to do today?
 
 
